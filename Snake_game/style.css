@@ -116,6 +116,7 @@ section .info {
     position: fixed;
     top: 0;
     background-color: #423737;
+    -webkit-backdrop-filter: blur(4px);
     backdrop-filter: blur(4px);
     display: flex;
     justify-content: center;
